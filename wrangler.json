@@ -12,3 +12,12 @@
 	},
 	"upload_source_maps": true
 }
+{
+  "d1_databases": [
+    {
+      "binding": "wezella_db",
+      "database_name": "wezella_db",
+      "database_id": "2b9017f7-632a-46ed-bdef-65ed55d43da5"
+    }
+  ]
+}
